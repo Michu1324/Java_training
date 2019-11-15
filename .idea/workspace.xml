@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3945b227-7cdd-4778-adf5-503723a32508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FirstAndLastDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberToWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberPalindrome">
+  <component name="RunManager" selected="Application.NumberToWords">
     <configuration name="DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DigitSumChallenge" />
       <module name="Java_training" />
@@ -77,8 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberToWords" />
+      <module name="Java_training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberToWords" />
         <item itemvalue="Application.NumberPalindrome" />
         <item itemvalue="Application.DigitSumChallenge" />
         <item itemvalue="Application.NumberInWord" />
@@ -117,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573726036960</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First and last digit sum challenge">
+      <created>1573728520566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573728520566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,7 +153,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="add Digit Sum challenge" />
     <MESSAGE value="add Numer Palindrome challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Numer Palindrome challenge" />
+    <MESSAGE value="First and last digit sum challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="First and last digit sum challenge" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
