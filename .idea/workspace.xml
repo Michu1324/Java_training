@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3945b227-7cdd-4778-adf5-503723a32508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FlourPackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestPrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,16 +55,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlourPackProblem">
-    <configuration name="DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DigitSumChallenge" />
+  <component name="RunManager" selected="Application.LargestPrime">
+    <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
       <module name="Java_training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
+    <configuration name="LargestPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestPrime" />
       <module name="Java_training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestPrime" />
         <item itemvalue="Application.FlourPackProblem" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.NumberToWords" />
         <item itemvalue="Application.NumberPalindrome" />
-        <item itemvalue="Application.DigitSumChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573803672133</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Flour Pack Problem">
+      <created>1573926157461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573926157461</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,18 +177,8 @@
     <MESSAGE value="add Numer Palindrome challenge" />
     <MESSAGE value="First and last digit sum challenge" />
     <MESSAGE value="Number to words challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number to words challenge" />
+    <MESSAGE value="Flour Pack Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flour Pack Problem" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
