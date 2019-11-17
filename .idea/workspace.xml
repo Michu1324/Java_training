@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3945b227-7cdd-4778-adf5-503723a32508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestPrime2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestPrime">
+  <component name="RunManager" selected="Application.LargestPrime2">
     <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
       <module name="Java_training" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPalindrome" />
+    <configuration name="LargestPrime2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestPrime2" />
       <module name="Java_training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestPrime2" />
         <item itemvalue="Application.LargestPrime" />
         <item itemvalue="Application.FlourPackProblem" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.NumberToWords" />
-        <item itemvalue="Application.NumberPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573926157461</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Largest Prime v1">
+      <created>1573933440179</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573933440179</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +185,19 @@
     <MESSAGE value="First and last digit sum challenge" />
     <MESSAGE value="Number to words challenge" />
     <MESSAGE value="Flour Pack Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flour Pack Problem" />
+    <MESSAGE value="Largest Prime v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Largest Prime v1" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LargestPrime2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
