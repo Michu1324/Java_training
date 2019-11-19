@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3945b227-7cdd-4778-adf5-503723a32508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MinAndMaxInputChallenge.java" afterDir="false" />
+    <list default="true" id="3945b227-7cdd-4778-adf5-503723a32508" name="Default Changelist" comment="Min and Max Input challenge">
+      <change afterPath="$PROJECT_DIR$/src/InputCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,9 +55,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinAndMaxInputChallenge">
+  <component name="RunManager" selected="Application.InputCalculator">
     <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
+      <module name="Java_training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputCalculator" />
       <module name="Java_training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,20 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Java_training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputCalculator" />
         <item itemvalue="Application.MinAndMaxInputChallenge" />
         <item itemvalue="Application.LargestPrime2" />
         <item itemvalue="Application.LargestPrime" />
         <item itemvalue="Application.FlourPackProblem" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573979152028</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Largest Prime v2">
+      <created>1574101848360</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574101848360</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
